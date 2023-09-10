@@ -14,9 +14,25 @@ You can find My [GitHub](https://github.com/ekimudzaki)
 
 ## Experiences
 
-# LEAD QA ENGINEER - Gojek(2017-2022)
+### LEAD QA ENGINEER - Gojek(2017-2022)
 
-Responsible to standardized QA process in MOKA Android by following company standard. Responsibe to maintain and optimize automated framework to cover 100% automatable cases. Leading 2 teams with two different product. Lead Merchant Platform, customize and improve automated framework, Enabling automated test on special device(POS EDC), create and maintain runner to be able to run it on EDC device and integrate it with CI/CD.Responsible to do Full Test Cycle for Go-Send, maintain TestCases for Go-Send, Test API services using Postman. Sanity Check for old Android version, Sometimes become speaker for QA meetup. 
+Responsible to standardized QA process in MOKA Android by following company standard. Responsibe to maintain and optimize automated framework to cover 100% automatable cases. Leading 2 teams with two different product. Lead Merchant Platform, customize and improve automated framework, Enabling automated test on special device(POS EDC), create and maintain runner to be able to run it on EDC device and integrate it with CI/CD.Responsible to do Full Test Cycle for Go-Send, maintain TestCases for Go-Send, Test API services using Postman. Sanity Check for old Android version, Sometimes become speaker for QA meetup.
+
+### Senior QA ENGINEER - Tokopedia(2016-2017)
+
+Responsible to maintain automation TestCases for mobile app, fixing and adding feature on automation framework (using java and php).
+
+### FREELANCE QA - uTest, Inc(2011-2017)
+
+Responsible to run manual testing for many products like facebook mobile, autodesk 3D website, mobil123.com, HP Australia website, etc, also responsible to run test case and analyze the result. 
+ 
+### TECHNICAL QA ENGINEER - HappyFresh(Nov 2015 – Sep 2016)
+
+Responsible to test mobile,  website app. Also responsible for automation testing using Appium, Selenium webdriver with ruby API and cucumber (mobile & web app). And configure Jenkins for both automation test.  
+
+### TECHNICAL QA ENGINEER - 2359 MEDIA, PTE, LTD(Nov 2014 – Nov  2015)
+                       
+Responsible to test various mobile,  website apps  such as NewsLoop, Tripple, Condo apps, MediaCorp, DBS HomeConnect. Also responsible for automation testing using calabash, appium with ruby API. Creating UAT document, also test planning document.  
 
 ## Publications
 
