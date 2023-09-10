@@ -3,8 +3,8 @@ remote_theme: ankitsultana/researcher@gem
 # url: "https://ankitsultana.com"
 # baseurl: "/researcher"
 
-# markdown: kramdown
-# #ins_logo: "./bits-logo.png"
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
 
 # tracking_id: #
 
