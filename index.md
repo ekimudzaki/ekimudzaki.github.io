@@ -13,6 +13,7 @@ I'm passionate with QA field with more than 10 years experiences. I really like 
 You can find My [GitHub](https://github.com/ekimudzaki)
 
 ## Experiences
+---
 
 ### LEAD QA ENGINEER - Gojek(Feb 2017 - Nov 2022)
 
@@ -36,7 +37,17 @@ You can find My [GitHub](https://github.com/ekimudzaki)
                        
 * Responsible to test various mobile,  website apps  such as NewsLoop, Tripple, Condo apps, MediaCorp, DBS HomeConnect. Also responsible for automation testing using calabash, appium with ruby API. Creating UAT document, also test planning document.  
 
-## Publications
+## Projects
+---
+
+### Quality Engineering for AHM x Kodehive (Dec 2022)
+
+* Basic knowledge QA
+* Java for QA
+* Create Framework using Spring, Selenium, SeleniumGrid, cucumber
+* Parallel test using SeleniumGrid docker
+* Introduction to Jenkins
+
 
 1. F.Bar, J.Doe: Effects of having a placeholder of a name
 2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
