@@ -6,13 +6,17 @@ layout: default
 
 <img class="profile-picture" src="ft.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Hi! My Name **Ahmad Fikri Mudzaki** you can call me Eki, I am Full Stack QA Engineer
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+I'm passionate with QA field with more than 10 years experiences. I really like to have challenges. Moreover, I could participate effectively in a team or work individually. I’m very adaptable with any job environment and also having many experience on testing field, it’s pleasure to learn and work with brand new technologies.
 
-## Research Interest
+You can find My [GitHub](https://github.com/ekimudzaki)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+## Experiences
+
+# LEAD QA ENGINEER - Gojek(2017-2022)
+
+Responsible to standardized QA process in MOKA Android by following company standard. Responsibe to maintain and optimize automated framework to cover 100% automatable cases. Leading 2 teams with two different product. Lead Merchant Platform, customize and improve automated framework, Enabling automated test on special device(POS EDC), create and maintain runner to be able to run it on EDC device and integrate it with CI/CD.Responsible to do Full Test Cycle for Go-Send, maintain TestCases for Go-Send, Test API services using Postman. Sanity Check for old Android version, Sometimes become speaker for QA meetup. 
 
 ## Publications
 
