@@ -1,7 +1,7 @@
 remote_theme: ankitsultana/researcher@gem
-# title: Researcher
-# url: "https://ankitsultana.com"
-# baseurl: "/researcher"
+title: QA Engineer
+url: "https://ekimudzaki.github.io"
+baseurl: ""
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
