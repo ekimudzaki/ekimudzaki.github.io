@@ -37,6 +37,23 @@ You can find My [GitHub](https://github.com/ekimudzaki)
                        
 * Responsible to test various mobile,  website apps  such as NewsLoop, Tripple, Condo apps, MediaCorp, DBS HomeConnect. Also responsible for automation testing using calabash, appium with ruby API. Creating UAT document, also test planning document.  
 
+### TECHNICAL QA ENGINEER - KANA SOFTWARE, INC(March 2013 – Oct  2014)
+
+Responsible to run manual testing for KANA ENTRERPRISE, also responsible to run performance testing and analyze the result. Also become setupper test server in Jakarta Office to configure Mail Server ( postfix + squirrelmail ), AppServ Conf ( JBoss ), Database Server ( DB2, Sql Server, Oracle Enterprise ). 
+
+### Skills & Tools
+---
+
+ - OS (Mac, Windows, Linux)
+ - Vitualization (docker)
+ - CI/CD (gitlab, jenkins)
+ - Language (Java, JavaScript, Ruby)
+ - API testing (Postman, Newman, RestAssured, HttpToolkit, Charles Proxy, Flipper, Etc)
+ - Functional Automated testing (Selenium, Appium, SeleniumGrid, Cucumber)
+ - Manual testing (Web, Mobile)
+ - Agile tools (JIRA, Trello)
+ - Documentation (GDocs, Confuence)
+
 ## Projects
 ---
 
@@ -61,39 +78,17 @@ You can find My [GitHub](https://github.com/ekimudzaki)
 * Share about Appium Ruby Console [arc GitHub](https://github.com/appium/ruby_console)
 
 ## Certification
+---
 
 1. iSQI GmbH, Lisensi 15-CMAPFL-TE-80220-31
 
 ## Education
- 
+ ---
+
 > (2013 – 2016)
 > BACHELOR DEGREE IN IT ENGINEERING
 > UNIVERSITAS MERCUBUANA
 
 > (2009-2012)
 > ASSOCIATE DEGREE IN INFORMATICS
->IT TELKOM, BANDUNG
-
-
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+> IT TELKOM, BANDUNG
