@@ -15,7 +15,7 @@ You can find My [GitHub](https://github.com/ekimudzaki)
 ## Experiences
 ---
 
-### Senior QA ENGINEER - WorlderGroup(Mar 2022 - Present)
+### Senior QA ENGINEER - WorlderGroup(Mar 2023 - Present)
 
 * Responsible to evaluate SDLC in the company and standarized QA process in the team. 
 * Improve the way the team testing and help developer and stackholder.
@@ -32,7 +32,7 @@ You can find My [GitHub](https://github.com/ekimudzaki)
 
 * Responsible to maintain automation TestCases for mobile app, fixing and adding feature on automation framework (using java and php).
 
-### ...
+### ...many more
 
 ## Skills & Tools
 ---
@@ -50,7 +50,7 @@ You can find My [GitHub](https://github.com/ekimudzaki)
 ## Projects
 ---
 
-### Quality Engineering for Astra Honda Motor x Kodehive (Dec 2022)
+### Trainer -  Quality Engineering for Astra Honda Motor x Kodehive (Dec 2022)
 
 * Basic knowledge QA
 * Java for QA
@@ -58,14 +58,14 @@ You can find My [GitHub](https://github.com/ekimudzaki)
 * Parallel test using SeleniumGrid docker
 * Integration with Jenkins
 
-### Sharing session about QA x University of Indonesia (2021)
+### Trainer - Sharing session about QA x University of Indonesia (2021)
 
 * Introduction to QA
 * Daily task as QA Engineer
 * How to start become QA Engineer
 * Freelancing as QA Engineer 
 
-### Sharing session about QA x ISQA (2018)
+### Speaker - Sharing session about QA x ISQA (2018)
 
 * What we do in Gojek
 * Share about Appium Ruby Console [arc GitHub](https://github.com/appium/ruby_console)
@@ -73,7 +73,7 @@ You can find My [GitHub](https://github.com/ekimudzaki)
 ## Certification
 ---
 
-1. iSQI GmbH, Lisensi 15-CMAPFL-TE-80220-31
+1. iSQI GmbH, License 15-CMAPFL-TE-80220-31
 
 ## Education
  ---
