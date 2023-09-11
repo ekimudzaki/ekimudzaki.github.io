@@ -3,11 +3,9 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [a.fikri.m@gmail.com](mailto:a.fikri.m@gmail.com)
 
-* Phone: [+91-123123](tel:+91-123123)
-
----
+<!-- ---
 
 ## Mailing Address
 
@@ -15,12 +13,10 @@ is_contact: true
 >
 > London
 >
-> United Kingdom
+> United Kingdom -->
 
 ---
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [GitHub](https://github.com/ekimudzaki)
