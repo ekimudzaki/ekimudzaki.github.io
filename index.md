@@ -48,7 +48,7 @@ I'm passionate with QA field with more than 10 years experiences. I really like 
  - Functional Automated testing (Selenium, Appium, SeleniumGrid, Cucumber)
  - Manual testing (Web, Mobile)
  - Agile tools (JIRA, Trello)
- - Documentation (GDocs, Confuence)
+ - Documentation (GDocs, Confluence)
 
 ## Projects
 ---
