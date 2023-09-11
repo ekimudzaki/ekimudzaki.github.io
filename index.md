@@ -15,6 +15,13 @@ You can find My [GitHub](https://github.com/ekimudzaki)
 ## Experiences
 ---
 
+### Senior QA ENGINEER - WorlderGroup(Mar 2022 - Present)
+
+* Responsible to evaluate SDLC in the company and standarized QA process in the team. 
+* Improve the way the team testing and help developer and stackholder.
+* Manage 2 teams to follow standarized process that company agreed to follow.
+* Impement API testing using Postman newman and integrate it with Jenkins (CI/CD).
+
 ### LEAD QA ENGINEER - Gojek(Feb 2017 - Nov 2022)
 
 * Responsible to standardized QA process in MOKA Android by following company standard. Responsibe to maintain and optimize automated framework to cover 100% automatable cases using JAVA, RESTAssured for API automated test, Gitlab, BrowserStack as cloud testing, Spring, Appium
@@ -25,21 +32,7 @@ You can find My [GitHub](https://github.com/ekimudzaki)
 
 * Responsible to maintain automation TestCases for mobile app, fixing and adding feature on automation framework (using java and php).
 
-### FREELANCE QA - uTest, Inc(May 2011 – Jan 2017)
-
-* Responsible to run manual testing for many products like facebook mobile, autodesk 3D website, mobil123.com, HP Australia website, etc, also responsible to run test case and analyze the result. 
- 
-### TECHNICAL QA ENGINEER - HappyFresh(Nov 2015 – Sep 2016)
-
-* Responsible to test mobile,  website app. Also responsible for automation testing using Appium, Selenium webdriver with ruby API and cucumber (mobile & web app). And configure Jenkins for both automation test.  
-
-### TECHNICAL QA ENGINEER - 2359 MEDIA, PTE, LTD(Nov 2014 – Nov  2015)
-                       
-* Responsible to test various mobile,  website apps  such as NewsLoop, Tripple, Condo apps, MediaCorp, DBS HomeConnect. Also responsible for automation testing using calabash, appium with ruby API. Creating UAT document, also test planning document.  
-
-### TECHNICAL QA ENGINEER - KANA SOFTWARE, INC(March 2013 – Oct  2014)
-
-* Responsible to run manual testing for KANA ENTRERPRISE, also responsible to run performance testing and analyze the result. Also become setupper test server in Jakarta Office to configure Mail Server ( postfix + squirrelmail ), AppServ Conf ( JBoss ), Database Server ( DB2, Sql Server, Oracle Enterprise ). 
+### ...
 
 ## Skills & Tools
 ---
