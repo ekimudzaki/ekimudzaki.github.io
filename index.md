@@ -41,7 +41,7 @@ You can find My [GitHub](https://github.com/ekimudzaki)
 
 * Responsible to run manual testing for KANA ENTRERPRISE, also responsible to run performance testing and analyze the result. Also become setupper test server in Jakarta Office to configure Mail Server ( postfix + squirrelmail ), AppServ Conf ( JBoss ), Database Server ( DB2, Sql Server, Oracle Enterprise ). 
 
-### Skills & Tools
+## Skills & Tools
 ---
 
  - OS (Mac, Windows, Linux)
