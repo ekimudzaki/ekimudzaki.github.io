@@ -8,7 +8,7 @@ layout: default
 
 Hi! My Name is **Ahmad Fikri Mudzaki** you can call me Eki, I am Full Stack QA Engineer
 
-I'm passionate with QA field with more than 10 years experiences. I really like to have challenges. Moreover, I could participate effectively in a team or work individually. I’m very adaptable with any job environment and also having many experience on testing field, it’s pleasure to learn and work with brand new technologies.
+I have more than 10 years experiences. I really like to have challenges. Moreover, I could participate effectively in a team or work individually. I’m adaptable with any job environment and stack.  Also having many experience on testing field, it’s pleasure to learn and work with brand new technologies.
 
 * Git: [GitHub](https://github.com/ekimudzaki)
 * Email: [a.fikri.m@gmail.com](mailto:a.fikri.m@gmail.com)
