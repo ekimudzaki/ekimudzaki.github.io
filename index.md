@@ -35,7 +35,7 @@ I have more than 10 years experiences. I really like to have challenges. Moreove
 
 * Tokopedia is a big ecommerce player in Indonesia, one of the unicorn startups. I worked as a Sr. Test Engineer that was responsible to maintain web, android & iOS automated tests. I was using a legacy framework from a previous engineer, it's a keyword driven framework based on selenium webdriver + Appium + Laravel (for frontend wise) + Jenkins as CI + Selenium grid to be able to run parallel. I only worked here for 5 months even if I passed the probation period because of personal reasons.
 
-### ...many more
+### [expand]...many more[/expand]
 
 ## Skills & Tools
 ---
