@@ -35,7 +35,13 @@ I have more than 10 years experiences. I really like to have challenges. Moreove
 
 * Tokopedia is a big ecommerce player in Indonesia, one of the unicorn startups. I worked as a Sr. Test Engineer that was responsible to maintain web, android & iOS automated tests. I was using a legacy framework from a previous engineer, it's a keyword driven framework based on selenium webdriver + Appium + Laravel (for frontend wise) + Jenkins as CI + Selenium grid to be able to run parallel. I only worked here for 5 months even if I passed the probation period because of personal reasons.
 
-### <p>[expand]...many more[/expand]</p>
+### FREELANCE QA - uTest,Inc (2011-2017)
+
+* Responsible to run manual testing for many products like facebook mobile, autodesk 3D website, mobil123.com, HP Australia website, etc, also responsible to run test case and analyze the result. 
+
+### Technical QA Engineer - HappyFresh (2015-2016)
+
+* Responsible to test mobile,  website app. Also responsible for automation testing using Appium, Selenium webdriver with ruby API and cucumber (mobile & web app). And configure Jenkins for both automation test.
 
 ## Skills & Tools
 ---
@@ -52,6 +58,15 @@ I have more than 10 years experiences. I really like to have challenges. Moreove
 
 ## Projects
 ---
+
+### Trainer - How to become QA engineer x Ministry of Manpower (Oct 2023)
+
+* What is QA engineer?
+* Career path of QA engineer
+* How to become QA engineer
+* Basic knowledge QA
+* QA mindset
+* Freelance as QA engineer
 
 ### Trainer -  Quality Engineering for Astra Honda Motor x Kodehive (Dec 2022)
 
