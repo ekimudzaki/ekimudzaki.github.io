@@ -76,17 +76,17 @@ I have more than 10 years experiences. I really like to have challenges. Moreove
 * Parallel test using SeleniumGrid docker
 * Integration with Jenkins
 
-### Trainer - Sharing session about QA x University of Indonesia (2021)
+<!-- ### Trainer - Sharing session about QA x University of Indonesia (2021)
 
 * Introduction to QA
 * Daily task as QA Engineer
 * How to start become QA Engineer
-* Freelancing as QA Engineer 
+* Freelancing as QA Engineer  -->
 
-### Speaker - Sharing session about QA x ISQA (2018)
+<!-- ### Speaker - Sharing session about QA x ISQA (2018)
 
 * What we do in Gojek
-* Share about Appium Ruby Console [arc GitHub](https://github.com/appium/ruby_console)
+* Share about Appium Ruby Console [arc GitHub](https://github.com/appium/ruby_console) -->
 
 ## Certification
 ---
