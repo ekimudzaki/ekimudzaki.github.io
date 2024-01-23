@@ -24,6 +24,7 @@ I have more than 10 years experiences. I really like to have challenges. Moreove
 * Improve the way the team testing and help developer and stackholder.
 * Manage 2 teams to follow standarized process that company agreed to follow.
 * Impement API testing using Postman newman and integrate it with Jenkins (CI/CD).
+* Helping team to create automated mobile builds (Android, iOS, iOS simulator) and integrate it with JIRA comment, Slack, Jenkins. This flow helps the team to speed up development procecss up to 2 weeks.
 
 ### LEAD QA ENGINEER - Gojek(02/2017 - 11/2022)
 
