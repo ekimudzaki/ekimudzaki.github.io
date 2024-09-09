@@ -23,8 +23,9 @@ I have more than 10 years experiences. I really like to have challenges. Moreove
 * Responsible to evaluate SDLC in the company and standarized QA process in the team. 
 * Improve the way the team testing and help developer and stackholder.
 * Manage 2 teams to follow standarized process that company agreed to follow.
-* Impement API testing using Postman newman and integrate it with Jenkins (CI/CD).
-* Helping team to create automated mobile builds (Android, iOS, iOS simulator) and integrate it with JIRA comment, Slack, Jenkins. This flow helps the team to speed up development procecss up to 2 weeks.
+* ~~Implement API testing using Postman newman and integrate it with Jenkins (CI/CD).~~ [Deprecated because of limitation]
+* [Helping team to create automated mobile builds (Android, iOS, iOS simulator) and integrate it with JIRA comment, Slack, Jenkins. This flow helps the team to speed up development procecss up to 2 weeks.](https://www.linkedin.com/pulse/streamlining-testing-workflow-impact-react-native-mobile-mudzaki-mencc)
+* Creates API testing framework using playwright and typescript and integrate with jenkins pipeline and testmo (testcase management system)
 
 ### LEAD QA ENGINEER - Gojek(02/2017 - 11/2022)
 
@@ -52,7 +53,7 @@ I have more than 10 years experiences. I really like to have challenges. Moreove
  - CI/CD (gitlab, jenkins)
  - Language (Java, JavaScript, Ruby)
  - API testing (Postman, Newman, RestAssured, HttpToolkit, Charles Proxy, Flipper, Etc)
- - Functional Automated testing (Selenium, Appium, SeleniumGrid, Cucumber)
+ - Functional Automated testing (Selenium, Appium, SeleniumGrid, Cucumber, Playwright)
  - Manual testing (Web, Mobile)
  - Agile tools (JIRA, Trello)
  - Documentation (GDocs, Confluence)
@@ -75,7 +76,7 @@ I have more than 10 years experiences. I really like to have challenges. Moreove
 * Java for QA
 * Create Framework using Spring, Selenium, SeleniumGrid, cucumber
 * Parallel test using SeleniumGrid docker
-* Integration with Jenkins
+* Integration with Jenkins & Report portal
 
 ### Trainer - Sharing session about QA x University of Indonesia (2021)
 
